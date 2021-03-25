@@ -39,14 +39,14 @@ PSECT code
 ;//////////////////////////////////////////////////////////////////////
 LLENADO:
     
-BSF  S_LVL
+BSF  PUMP_LVL
 BCF  HEATING
 BCF  PUM_OXYGEN
 GOTO RENEW
     
 CALENTAR:
 
-BCF  S_LVL
+BCF  PUMP_LVL
 BSF  HEATING
 BCF  PUM_OXYGEN
 GOTO RENEW

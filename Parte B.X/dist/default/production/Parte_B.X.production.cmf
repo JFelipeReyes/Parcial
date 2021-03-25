@@ -61,65 +61,65 @@ STRING 800-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $build/default/production/Main.o
-7D0 resetVec CODE >25:/root/MPLABXProjects/Parte B.X/Main.s
-7D0 resetVec CODE >26:/root/MPLABXProjects/Parte B.X/Main.s
-7D2 resetVec CODE >27:/root/MPLABXProjects/Parte B.X/Main.s
-7D3 code CODE >40:/root/MPLABXProjects/Parte B.X/Main.s
-7D3 code CODE >42:/root/MPLABXProjects/Parte B.X/Main.s
-7D4 code CODE >43:/root/MPLABXProjects/Parte B.X/Main.s
-7D5 code CODE >44:/root/MPLABXProjects/Parte B.X/Main.s
-7D6 code CODE >45:/root/MPLABXProjects/Parte B.X/Main.s
-7D7 code CODE >47:/root/MPLABXProjects/Parte B.X/Main.s
-7D7 code CODE >49:/root/MPLABXProjects/Parte B.X/Main.s
-7D8 code CODE >50:/root/MPLABXProjects/Parte B.X/Main.s
-7D9 code CODE >51:/root/MPLABXProjects/Parte B.X/Main.s
-7DA code CODE >52:/root/MPLABXProjects/Parte B.X/Main.s
-7DB code CODE >54:/root/MPLABXProjects/Parte B.X/Main.s
-7DB code CODE >56:/root/MPLABXProjects/Parte B.X/Main.s
-7DC code CODE >57:/root/MPLABXProjects/Parte B.X/Main.s
-7DD code CODE >58:/root/MPLABXProjects/Parte B.X/Main.s
-7DE code CODE >59:/root/MPLABXProjects/Parte B.X/Main.s
-7DF code CODE >61:/root/MPLABXProjects/Parte B.X/Main.s
-7DF code CODE >62:/root/MPLABXProjects/Parte B.X/Main.s
-7E0 code CODE >63:/root/MPLABXProjects/Parte B.X/Main.s
-7E1 code CODE >64:/root/MPLABXProjects/Parte B.X/Main.s
-7E2 code CODE >65:/root/MPLABXProjects/Parte B.X/Main.s
-7E3 code CODE >69:/root/MPLABXProjects/Parte B.X/Main.s
-7E3 code CODE >70:/root/MPLABXProjects/Parte B.X/Main.s
-7E4 code CODE >71:/root/MPLABXProjects/Parte B.X/Main.s
-7E5 code CODE >73:/root/MPLABXProjects/Parte B.X/Main.s
-7E6 code CODE >74:/root/MPLABXProjects/Parte B.X/Main.s
-7E7 code CODE >75:/root/MPLABXProjects/Parte B.X/Main.s
-7E8 code CODE >76:/root/MPLABXProjects/Parte B.X/Main.s
-7E9 code CODE >79:/root/MPLABXProjects/Parte B.X/Main.s
-7EA code CODE >80:/root/MPLABXProjects/Parte B.X/Main.s
-7EB code CODE >81:/root/MPLABXProjects/Parte B.X/Main.s
-7EC code CODE >83:/root/MPLABXProjects/Parte B.X/Main.s
-7ED code CODE >84:/root/MPLABXProjects/Parte B.X/Main.s
-7EE code CODE >86:/root/MPLABXProjects/Parte B.X/Main.s
-7EE code CODE >88:/root/MPLABXProjects/Parte B.X/Main.s
-7EF code CODE >89:/root/MPLABXProjects/Parte B.X/Main.s
-7F0 code CODE >90:/root/MPLABXProjects/Parte B.X/Main.s
-7F1 code CODE >92:/root/MPLABXProjects/Parte B.X/Main.s
-7F1 code CODE >93:/root/MPLABXProjects/Parte B.X/Main.s
-7F2 code CODE >94:/root/MPLABXProjects/Parte B.X/Main.s
-7F3 code CODE >95:/root/MPLABXProjects/Parte B.X/Main.s
-7F4 code CODE >97:/root/MPLABXProjects/Parte B.X/Main.s
-7F4 code CODE >98:/root/MPLABXProjects/Parte B.X/Main.s
-7F5 code CODE >99:/root/MPLABXProjects/Parte B.X/Main.s
-7F6 code CODE >100:/root/MPLABXProjects/Parte B.X/Main.s
-7F7 code CODE >102:/root/MPLABXProjects/Parte B.X/Main.s
-7F7 code CODE >103:/root/MPLABXProjects/Parte B.X/Main.s
-7F8 code CODE >104:/root/MPLABXProjects/Parte B.X/Main.s
-7F9 code CODE >105:/root/MPLABXProjects/Parte B.X/Main.s
-7FA code CODE >107:/root/MPLABXProjects/Parte B.X/Main.s
-7FA code CODE >108:/root/MPLABXProjects/Parte B.X/Main.s
-7FB code CODE >109:/root/MPLABXProjects/Parte B.X/Main.s
-7FC code CODE >110:/root/MPLABXProjects/Parte B.X/Main.s
-7FD code CODE >112:/root/MPLABXProjects/Parte B.X/Main.s
-7FD code CODE >113:/root/MPLABXProjects/Parte B.X/Main.s
-7FE code CODE >114:/root/MPLABXProjects/Parte B.X/Main.s
-7FF code CODE >115:/root/MPLABXProjects/Parte B.X/Main.s
+7D0 resetVec CODE >25:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D0 resetVec CODE >26:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D2 resetVec CODE >27:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D3 code CODE >40:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D3 code CODE >42:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D4 code CODE >43:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D5 code CODE >44:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D6 code CODE >45:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D7 code CODE >47:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D7 code CODE >49:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D8 code CODE >50:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7D9 code CODE >51:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DA code CODE >52:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DB code CODE >54:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DB code CODE >56:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DC code CODE >57:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DD code CODE >58:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DE code CODE >59:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DF code CODE >61:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7DF code CODE >62:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E0 code CODE >63:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E1 code CODE >64:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E2 code CODE >65:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E3 code CODE >69:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E3 code CODE >70:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E4 code CODE >71:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E5 code CODE >73:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E6 code CODE >74:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E7 code CODE >75:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E8 code CODE >76:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7E9 code CODE >79:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EA code CODE >80:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EB code CODE >81:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EC code CODE >83:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7ED code CODE >84:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EE code CODE >86:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EE code CODE >88:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7EF code CODE >89:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F0 code CODE >90:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F1 code CODE >92:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F1 code CODE >93:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F2 code CODE >94:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F3 code CODE >95:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F4 code CODE >97:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F4 code CODE >98:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F5 code CODE >99:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F6 code CODE >100:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F7 code CODE >102:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F7 code CODE >103:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F8 code CODE >104:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7F9 code CODE >105:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FA code CODE >107:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FA code CODE >108:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FB code CODE >109:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FC code CODE >110:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FD code CODE >112:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FD code CODE >113:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FE code CODE >114:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
+7FF code CODE >115:/home/juanreyes/Repositorios/Digitales II/PArcial/Parcial/Parte B.X/Main.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
